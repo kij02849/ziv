@@ -7,7 +7,7 @@ title: Ziv的專頁
 subtitle:
 description:
 author: Ziv
-language:
+language: zh-TW
 timezone:
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: huxblog
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
