@@ -1,10 +1,10 @@
 ---
-title: 早安各位
+title: ARROW 100.03%(Full Combo)
 tags:
- - 我超猛
- - 大家好
+ - 難度12
+ - 鳥掉的譜面
 categories:
  - maimai
 ---
 我超猛ㄏㄏ
-<iframe width="854" height="480" src="https://www.youtube.com/embed/H1va_evzg40" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="580" height="400" src="https://www.youtube.com/embed/lLRxNNslFxM" frameborder="0" gesture="media" allowfullscreen></iframe>
